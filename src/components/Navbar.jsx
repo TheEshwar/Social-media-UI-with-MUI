@@ -95,6 +95,7 @@ function Navbar() {
           vertical: 'top',
           horizontal: 'right',
         }}
+		sx={{marginTop: 5}}
       >
         <MenuItem>Profile</MenuItem>
         <MenuItem>My account</MenuItem>
